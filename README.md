@@ -1,2 +1,3 @@
 # nery
-mi pagina web
+mi pagina web 
+Programación oritada a objetos 
